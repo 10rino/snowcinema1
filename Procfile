@@ -1,1 +1,1 @@
-web: python snow cinema.py
+python snow cinema.py
