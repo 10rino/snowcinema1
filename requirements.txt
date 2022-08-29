@@ -1,8 +1,1 @@
-telegram.ext.commandhandler
-telegram.ext.updater
-telegram.ext.dispatcher
-telegram.update
-telegram.ext.callbackcontext
-telegram.bot
-telegram.ext.callbackcontext
-telegram.update
+
