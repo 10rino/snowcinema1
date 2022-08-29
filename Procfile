@@ -1,1 +1,1 @@
-worker:  python snowcinema.py
+worker:  python <snowcinema>.py
