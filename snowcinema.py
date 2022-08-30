@@ -3,7 +3,7 @@ from flask import request
 from flask import Response
 import requests
  
-TOKEN = "<Your Bot Token>"
+TOKEN = "5666296465:AAFCC5I8QN6pWhad0ZoprGFjFyIVG1CbfWM"
 app = Flask(__name__)
  
 def parse_message(message):
