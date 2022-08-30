@@ -1,1 +1,1 @@
-worker:  python snowcinema.py
+python snowcinema.py
